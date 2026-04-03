@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+awesome/
+Superfreetts-main/
+Superfreetts-main.zip
